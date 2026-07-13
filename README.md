@@ -40,4 +40,8 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
