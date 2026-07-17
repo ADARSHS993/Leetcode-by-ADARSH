@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0049-group-anagrams) |
 | [0209-minimum-size-subarray-sum](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0643-maximum-average-subarray-i) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
