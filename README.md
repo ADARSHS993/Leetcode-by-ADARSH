@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -40,12 +41,14 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0125-valid-palindrome) |
 ## Math
 |  |
