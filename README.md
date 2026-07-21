@@ -11,6 +11,7 @@
 | [0066-plus-one](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -19,6 +20,7 @@
 | [0001-two-sum](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -43,6 +45,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
@@ -68,4 +71,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
