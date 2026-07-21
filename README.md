@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0209-minimum-size-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
