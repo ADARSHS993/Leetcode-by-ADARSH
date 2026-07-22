@@ -19,6 +19,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0242-valid-anagram) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0125-valid-palindrome) |
@@ -58,6 +60,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
