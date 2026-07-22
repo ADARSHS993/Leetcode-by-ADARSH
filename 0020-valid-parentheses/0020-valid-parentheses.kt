@@ -1,19 +1,31 @@
 class Solution {
     fun isValid(s: String): Boolean {
-        val stack = ArrayDeque<Char>()
+        val stack = Stack<Char>()
 
         for(ch in s){
             when(ch){
-                '(' -> stack.addLast(')')
-                '{' -> stack.addLast('}')
-                '[' -> stack.addLast(']')
-                else ->{
-                   if(stack.isEmpty() || stack.removeLast() != ch){
-                    return false
-                   } 
+                '(','{','[' -> stack.push(ch)
+
+                ')' -> {
+                    if(stack.isEmpty() || stack.pop() != '('){
+                        return false
+                    }    
                 }
-            }
+
+                ']' -> {
+                    if(stack.isEmpty() || stack.pop() != '[') {
+                        return false
+                    }
+                }
+
+                '}' -> {
+                    if(stack.isEmpty() || stack.pop() != '{'){
+                        return false
+                    }
+                }
         }
-        return stack.isEmpty()
-    }
+            }
+
+            return stack.isEmpty()
+        }
 }
