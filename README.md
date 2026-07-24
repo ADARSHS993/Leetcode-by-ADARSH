@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@
 | [0088-merge-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
