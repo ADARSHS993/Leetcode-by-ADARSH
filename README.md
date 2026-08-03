@@ -21,6 +21,7 @@
 | [0414-third-maximum-number](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
