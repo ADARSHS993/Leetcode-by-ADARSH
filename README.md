@@ -30,6 +30,7 @@
 | [0013-roman-to-integer](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -45,6 +46,7 @@
 | [0058-length-of-last-word](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
