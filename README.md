@@ -50,6 +50,7 @@
 | [0205-isomorphic-strings](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
