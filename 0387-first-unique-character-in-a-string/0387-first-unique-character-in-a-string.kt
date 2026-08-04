@@ -1,17 +1,18 @@
 class Solution {
     fun firstUniqChar(s: String): Int {
-        
-        val freq = IntArray(26)
+
+        val map = HashMap<Char,Int>()
 
         for(i in s){
-            freq[i - 'a']++
+          map[i] = map.getOrDefault(i,0)+1
         }
 
         for(i in s.indices){
-            if(freq[s[i] - 'a'] == 1){
+            if(map[s[i]] == 1){
                 return i
             }
         }
+
         return -1
     }
 }
