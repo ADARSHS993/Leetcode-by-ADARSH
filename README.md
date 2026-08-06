@@ -136,4 +136,8 @@
 | ------- |
 | [0409-longest-palindrome](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0680-valid-palindrome-ii) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
