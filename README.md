@@ -20,6 +20,7 @@
 | [0217-contains-duplicate](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0643-maximum-average-subarray-i) |
@@ -35,6 +36,7 @@
 | [0205-isomorphic-strings](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -78,6 +80,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0414-third-maximum-number) |
 ## Two Pointers
 |  |
@@ -120,10 +123,12 @@
 | ------- |
 | [0169-majority-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0387-first-unique-character-in-a-string) |
 ## Trie
 |  |
@@ -152,8 +157,14 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
