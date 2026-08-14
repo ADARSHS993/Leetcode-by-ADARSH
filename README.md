@@ -27,6 +27,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -102,6 +104,7 @@
 | [0283-move-zeroes](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1768-merge-strings-alternately) |
 ## Math
 |  |
