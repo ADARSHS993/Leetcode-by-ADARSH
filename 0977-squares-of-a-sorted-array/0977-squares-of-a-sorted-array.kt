@@ -1,9 +1,22 @@
 class Solution {
     fun sortedSquares(nums: IntArray): IntArray {
-        for(i in nums.indices){
-            nums[i] = nums[i] * nums[i]
+        val ans = IntArray(nums.size)
+
+        var left = 0
+        var right = nums.size -1
+        var index = nums.size - 1
+        while(left <= right){
+            val leftSquare =  nums[left] * nums[left]
+            val rightSquare = nums[right] * nums[right]
+            if(leftSquare > rightSquare){
+                ans[index] = leftSquare
+                left++
+            }else{
+                ans[index] = rightSquare
+                right--
+            }
+            index--
         }
-        var ans = nums.sortedArray()
         return ans
     }
 }
