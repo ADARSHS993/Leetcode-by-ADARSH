@@ -28,6 +28,7 @@
 | [0724-find-pivot-index](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0977-squares-of-a-sorted-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0409-longest-palindrome](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0451-sort-characters-by-frequency) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0506-relative-ranks](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0977-squares-of-a-sorted-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Two Pointers
 |  |
 | ------- |
