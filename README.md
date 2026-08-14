@@ -26,6 +26,7 @@
 | [0506-relative-ranks](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0506-relative-ranks) |
 | [0643-maximum-average-subarray-i](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0724-find-pivot-index) |
+| [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@
 | [0414-third-maximum-number](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0169-majority-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -166,6 +169,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0506-relative-ranks) |
+| [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -176,4 +180,17 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0451-sort-characters-by-frequency) |
+| [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
