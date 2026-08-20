@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0088-merge-sorted-array) |
@@ -119,6 +120,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
