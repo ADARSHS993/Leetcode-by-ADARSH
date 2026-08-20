@@ -116,11 +116,13 @@
 | [0007-reverse-integer](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -213,4 +215,8 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
