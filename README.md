@@ -130,6 +130,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0278-first-bad-version) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -231,4 +232,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0074-search-a-2d-matrix) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
