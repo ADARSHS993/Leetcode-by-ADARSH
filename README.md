@@ -31,6 +31,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -135,6 +136,7 @@
 | [0278-first-bad-version](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
