@@ -121,6 +121,7 @@
 | [0066-plus-one](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0367-valid-perfect-square) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@
 | [0162-find-peak-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0367-valid-perfect-square) |
 ## Prefix Sum
 |  |
 | ------- |
