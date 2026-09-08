@@ -39,6 +39,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2187-minimum-time-to-complete-trips](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/2187-minimum-time-to-complete-trips) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0875-koko-eating-bananas](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1539-kth-missing-positive-number](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1539-kth-missing-positive-number) |
+| [2187-minimum-time-to-complete-trips](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/2187-minimum-time-to-complete-trips) |
 ## Prefix Sum
 |  |
 | ------- |
