@@ -33,6 +33,7 @@
 | [0724-find-pivot-index](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -139,6 +140,7 @@
 | [0704-binary-search](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
