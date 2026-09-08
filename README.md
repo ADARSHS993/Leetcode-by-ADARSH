@@ -36,6 +36,7 @@
 | [0875-koko-eating-bananas](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0977-squares-of-a-sorted-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
 |  |
@@ -141,6 +142,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Prefix Sum
 |  |
 | ------- |
