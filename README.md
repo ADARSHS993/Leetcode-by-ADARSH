@@ -60,6 +60,7 @@
 | [0290-word-pattern](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -81,6 +82,7 @@
 | [0205-isomorphic-strings](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0409-longest-palindrome) |
@@ -185,6 +187,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0451-sort-characters-by-frequency) |
 ## Trie
