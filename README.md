@@ -27,6 +27,7 @@
 | [0238-product-of-array-except-self](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0506-relative-ranks](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0506-relative-ranks) |
@@ -58,6 +59,7 @@
 | [0242-valid-anagram](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -107,6 +109,7 @@
 | [0217-contains-duplicate](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0506-relative-ranks) |
@@ -125,6 +128,7 @@
 | [0189-rotate-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0977-squares-of-a-sorted-array) |
@@ -149,6 +153,7 @@
 | [0162-find-peak-element](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0744-find-smallest-letter-greater-than-target) |
