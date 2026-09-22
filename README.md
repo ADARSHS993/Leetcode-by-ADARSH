@@ -42,6 +42,7 @@
 | [0912-sort-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1207-unique-number-of-occurrences](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1207-unique-number-of-occurrences) |
 | [1539-kth-missing-positive-number](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/2187-minimum-time-to-complete-trips) |
@@ -70,6 +71,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0771-jewels-and-stones) |
+| [1207-unique-number-of-occurrences](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
