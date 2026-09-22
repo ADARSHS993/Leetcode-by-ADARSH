@@ -46,6 +46,7 @@
 | [1539-kth-missing-positive-number](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1539-kth-missing-positive-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2187-minimum-time-to-complete-trips](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/2187-minimum-time-to-complete-trips) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0771-jewels-and-stones](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/2215-find-the-difference-of-two-arrays) |
 ## String
 |  |
 | ------- |
