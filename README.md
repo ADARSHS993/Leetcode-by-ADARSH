@@ -69,6 +69,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0771-jewels-and-stones) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
@@ -92,6 +93,7 @@
 | [0409-longest-palindrome](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0771-jewels-and-stones) |
 | [1768-merge-strings-alternately](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
