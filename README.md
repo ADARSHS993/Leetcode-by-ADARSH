@@ -110,6 +110,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0232-implement-queue-using-stacks) |
 ## Sorting
 |  |
 | ------- |
@@ -215,6 +216,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
@@ -301,4 +303,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
