@@ -297,4 +297,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0202-happy-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ADARSHS993/Leetcode-by-ADARSH/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
